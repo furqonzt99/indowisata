@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+## Access Web
+https://thirsty-edison-3bff20.netlify.app/#/
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
